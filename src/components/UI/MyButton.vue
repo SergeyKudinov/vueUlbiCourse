@@ -18,7 +18,6 @@ export default {
         background: none;
         color: teal;
         border: 1px solid teal;
-        align-self: flex-end;
     }
     
 </style>
